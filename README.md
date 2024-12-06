@@ -10,11 +10,9 @@ no👋 Hello World! I'm Ekra Hossain, a passionate .NET developer with over 2 ye
 
 Happy coding! 🚀
 
-https://docs.google.com/presentation/d/12qy1FqUIjFHLVlMN7qpM5LzM3-abqoHs/edit?usp=sharing&ouid=114016758015967332383&rtpof=true&sd=true
 
-
-https://docs.google.com/spreadsheets/d/19G0hSDRpG4wnGwE2rtnb6wKlrqtDiiZZmzVC2S4NCWI/edit?usp=sharing
-
+- https://docs.google.com/presentation/d/12qy1FqUIjFHLVlMN7qpM5LzM3-abqoHs/edit?usp=sharing&ouid=114016758015967332383&rtpof=true&sd=true
+- https://docs.google.com/spreadsheets/d/19G0hSDRpG4wnGwE2rtnb6wKlrqtDiiZZmzVC2S4NCWI/edit?usp=sharing
 - https://www.canva.com/design/DAGX32_QsfY/o04HWyr_C58THGmuAA4lig/edit?utm_content=DAGX32_QsfY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
 - https://www.canva.com/design/DAGWhUGws_A/xyMn9diS8gRlS9rIzEY5bg/edit?utm_content=DAGWhUGws_A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- https://drive.google.com/file/d/1yy87Z3O5RC2lW6XzLxli8l1hHtj834Zm/view?usp=sharing
