@@ -1,4 +1,4 @@
-no👋 Hello World! I'm Ekra Hossain, a passionate .NET developer with over 2 years of hands-on experience in crafting robust and scalable software solutions.
+👋 Hello World! I'm Ekra Hossain, a passionate .NET developer with over 2 years of hands-on experience in crafting robust and scalable software solutions.
 
 💻 Currently, I'm immersed in the world of .NET technologies, leveraging the power of C# and ASP.NET to build innovative and efficient applications. My code journey involves a mix of backend magic, web development wizardry, and a dash of cloud computing.
 
